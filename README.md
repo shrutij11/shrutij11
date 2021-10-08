@@ -9,7 +9,7 @@
 
 <p><i> I'm Shruti a 3rd year Computer Science Undergraduate from Techno India University, West Bengal. I'm a Tech Enthusiast, Web Developer and an Open Source Contributer. I love to explore and learn about new domains. Besides programming, I am a Bibliophile and love to play ukulele.</i></p>
 <ul>
-<li> 🌱 <b>I’m currently learning</b> : <code>Data Structures</code>, <code>React</code></li>
+<li> 🌱 <b>I’m currently learning</b> :  <code>React</code></li>
 <li> 💬 <b>Ask me about</b> : <code>Web Development</code></li>
 <li> 📫 <b>How to reach me</b> : <code><a href="https://in.linkedin.com/in/shruti-jaiswal-4b8629208">LinkedIn</a></code></li>
 <li> 👩‍💻 <b>Portfolio</b> : <code><a href="https://shrutij11.github.io/Portfolio/">https://shrutij11.github.io/Portfolio/</a></code></li>
