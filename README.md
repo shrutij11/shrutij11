@@ -8,7 +8,7 @@
 <img src="https://raw.githubusercontent.com/akshitagupta15june/akshitagupta15june/master/200w.webp" height=30% width=30% align="right">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrutij11" alt="shrutij11" /> </p>
 
-<p><i> I'm Shruti a 3rd year Computer Science Undergraduate. I'm a Web Developer and an Open Source Enthusiast. I love to explore and learn about new domains. Besides programming, I am a Bibliophile and love to play ukulele.</i></p>
+<p><i> I'm Shruti a final year Computer Science Undergraduate. I'm a Web Developer and an Open Source Enthusiast. I love to explore and learn about new domains. Besides programming, I am a Bibliophile and love to play ukulele.</i></p>
 <ul>
 <li> 🌱 <b>I’m currently learning</b> :  <code>React</code></li>
 <li> 💬 <b>Ask me about</b> : <code>Web Development</code></li>
