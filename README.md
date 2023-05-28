@@ -13,7 +13,7 @@
 <li> 🌱 <b>I’m currently learning</b> :  <code>React</code></li>
 <li> 💬 <b>Ask me about</b> : <code>Web Development</code></li>
 <li> 📫 <b>How to reach me</b> : <code><a href="https://in.linkedin.com/in/shruti-jaiswal-4b8629208">LinkedIn</a></code></li>
-<li> 👩‍💻 <b>Portfolio</b> : <code><a href="https://shrutij11.github.io/Portfolio/">https://shrutij11.github.io/Portfolio/</a></code></li>
+<li> 👩‍💻 <b>Portfolio</b> : <code><a href="[https://shrutij11.github.io/Portfolio/](https://shruti-portfolio-3p9q-enk3nbzdi-shrutij11.vercel.app/)">https://shrutij11.github.io/Portfolio/</a></code></li>
 <li> 😄 <b>Pronouns</b> : <code>She</code>/<code>Her</code></li>
 <li> ⚡ <b>Fun fact</b> :Any code of your own that you haven’t looked at for six or more months might as well have been written by someone else. </li> 
 </ul>
